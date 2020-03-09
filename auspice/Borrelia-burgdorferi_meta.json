@@ -1,0 +1,2091 @@
+{
+  "annotations": {
+    "BB_0793": {
+      "end": 831563,
+      "start": 830954,
+      "strand": 1
+    },
+    "BB_0797": {
+      "end": 841832,
+      "start": 839243,
+      "strand": 1
+    },
+    "BB_0802": {
+      "end": 847488,
+      "start": 847125,
+      "strand": 1
+    },
+    "BB_0803": {
+      "end": 848339,
+      "start": 847490,
+      "strand": 1
+    },
+    "BB_0804": {
+      "end": 848804,
+      "start": 848537,
+      "strand": 1
+    },
+    "BB_0809": {
+      "end": 855996,
+      "start": 854868,
+      "strand": 1
+    },
+    "BB_0810": {
+      "end": 857509,
+      "start": 855988,
+      "strand": 1
+    },
+    "BB_0812": {
+      "end": 860111,
+      "start": 858938,
+      "strand": 1
+    },
+    "BB_0814": {
+      "end": 861774,
+      "start": 860439,
+      "strand": 1
+    },
+    "BB_0817": {
+      "end": 865042,
+      "start": 863635,
+      "strand": 1
+    },
+    "BB_0820": {
+      "end": 866694,
+      "start": 866493,
+      "strand": 1
+    },
+    "BB_0821": {
+      "end": 867601,
+      "start": 866680,
+      "strand": 1
+    },
+    "ackA": {
+      "end": 650387,
+      "start": 649169,
+      "strand": 1
+    },
+    "acpP": {
+      "end": 740688,
+      "start": 740445,
+      "strand": 1
+    },
+    "alr": {
+      "end": 161208,
+      "start": 160089,
+      "strand": 1
+    },
+    "apt": {
+      "end": 818548,
+      "start": 818017,
+      "strand": 1
+    },
+    "argS": {
+      "end": 615771,
+      "start": 614013,
+      "strand": 1
+    },
+    "asnS": {
+      "end": 100205,
+      "start": 98816,
+      "strand": 1
+    },
+    "aspS": {
+      "end": 467278,
+      "start": 465517,
+      "strand": 1
+    },
+    "bgp": {
+      "end": 607935,
+      "start": 607137,
+      "strand": 1
+    },
+    "bmpA": {
+      "end": 394063,
+      "start": 393043,
+      "strand": 1
+    },
+    "bmpB": {
+      "end": 392957,
+      "start": 391931,
+      "strand": 1
+    },
+    "bmpC": {
+      "end": 395166,
+      "start": 394104,
+      "strand": 1
+    },
+    "bmpD": {
+      "end": 396506,
+      "start": 395480,
+      "strand": 1
+    },
+    "bosR": {
+      "end": 686507,
+      "start": 685976,
+      "strand": 1
+    },
+    "cdd": {
+      "end": 645601,
+      "start": 645136,
+      "strand": 1
+    },
+    "cdr": {
+      "end": 768064,
+      "start": 766732,
+      "strand": 1
+    },
+    "cdsA": {
+      "end": 117763,
+      "start": 116824,
+      "strand": 1
+    },
+    "cheR": {
+      "end": 40677,
+      "start": 39825,
+      "strand": 1
+    },
+    "clpP": {
+      "end": 801072,
+      "start": 800475,
+      "strand": 1
+    },
+    "clpX": {
+      "end": 639872,
+      "start": 638579,
+      "strand": 1
+    },
+    "cmk": {
+      "end": 124814,
+      "start": 124148,
+      "strand": 1
+    },
+    "coaD": {
+      "end": 740176,
+      "start": 739684,
+      "strand": 1
+    },
+    "coaE": {
+      "end": 558024,
+      "start": 557406,
+      "strand": 1
+    },
+    "csrA": {
+      "end": 187194,
+      "start": 186948,
+      "strand": 1
+    },
+    "cvpA": {
+      "end": 808464,
+      "start": 807975,
+      "strand": 1
+    },
+    "cysS": {
+      "end": 623447,
+      "start": 622004,
+      "strand": 1
+    },
+    "def": {
+      "end": 60533,
+      "start": 60035,
+      "strand": 1
+    },
+    "dnaA": {
+      "end": 458036,
+      "start": 456575,
+      "strand": 1
+    },
+    "dnaB": {
+      "end": 111042,
+      "start": 109674,
+      "strand": 1
+    },
+    "dnaG": {
+      "end": 748119,
+      "start": 746338,
+      "strand": 1
+    },
+    "dnaJ": {
+      "end": 529198,
+      "start": 528103,
+      "strand": 1
+    },
+    "dnaK": {
+      "end": 531105,
+      "start": 529197,
+      "strand": 1
+    },
+    "dnaN": {
+      "end": 459434,
+      "start": 458276,
+      "strand": 1
+    },
+    "efbC": {
+      "end": 484586,
+      "start": 484286,
+      "strand": 1
+    },
+    "efp": {
+      "end": 219634,
+      "start": 219055,
+      "strand": 1
+    },
+    "engA": {
+      "end": 514527,
+      "start": 513225,
+      "strand": 1
+    },
+    "eno": {
+      "end": 346364,
+      "start": 345062,
+      "strand": 1
+    },
+    "era": {
+      "end": 700924,
+      "start": 700051,
+      "strand": 1
+    },
+    "fbaA": {
+      "end": 465132,
+      "start": 464052,
+      "strand": 1
+    },
+    "ffh": {
+      "end": 736686,
+      "start": 735351,
+      "strand": 1
+    },
+    "flgB": {
+      "end": 303740,
+      "start": 303332,
+      "strand": 1
+    },
+    "flgC": {
+      "end": 303309,
+      "start": 302850,
+      "strand": 1
+    },
+    "flgD": {
+      "end": 295228,
+      "start": 294784,
+      "strand": 1
+    },
+    "flgG": {
+      "end": 816299,
+      "start": 815501,
+      "strand": 1
+    },
+    "flgK": {
+      "end": 185275,
+      "start": 183391,
+      "strand": 1
+    },
+    "flgL": {
+      "end": 186552,
+      "start": 185277,
+      "strand": 1
+    },
+    "flhA": {
+      "end": 285962,
+      "start": 283868,
+      "strand": 1
+    },
+    "flhB": {
+      "end": 287089,
+      "start": 285970,
+      "strand": 1
+    },
+    "fliE": {
+      "end": 302839,
+      "start": 302503,
+      "strand": 1
+    },
+    "fliF": {
+      "end": 302489,
+      "start": 300779,
+      "strand": 1
+    },
+    "fliG": {
+      "end": 300764,
+      "start": 299729,
+      "strand": 1
+    },
+    "fliI": {
+      "end": 298776,
+      "start": 297465,
+      "strand": 1
+    },
+    "fliL": {
+      "end": 291595,
+      "start": 291058,
+      "strand": 1
+    },
+    "fliM": {
+      "end": 291021,
+      "start": 289962,
+      "strand": 1
+    },
+    "fliP": {
+      "end": 288946,
+      "start": 288181,
+      "strand": 1
+    },
+    "fliQ": {
+      "end": 288173,
+      "start": 287909,
+      "strand": 1
+    },
+    "fliR": {
+      "end": 287877,
+      "start": 287088,
+      "strand": 1
+    },
+    "fliS": {
+      "end": 561554,
+      "start": 561116,
+      "strand": 1
+    },
+    "fmt": {
+      "end": 60039,
+      "start": 59100,
+      "strand": 1
+    },
+    "fni": {
+      "end": 726495,
+      "start": 725430,
+      "strand": 1
+    },
+    "frr": {
+      "end": 118929,
+      "start": 118374,
+      "strand": 1
+    },
+    "ftsA": {
+      "end": 309780,
+      "start": 308538,
+      "strand": 1
+    },
+    "ftsW": {
+      "end": 311617,
+      "start": 310558,
+      "strand": 1
+    },
+    "ftsY": {
+      "end": 73492,
+      "start": 72646,
+      "strand": 1
+    },
+    "ftsZ": {
+      "end": 308517,
+      "start": 307317,
+      "strand": 1
+    },
+    "fusA": {
+      "end": 733803,
+      "start": 731793,
+      "strand": 1
+    },
+    "gap": {
+      "end": 53461,
+      "start": 52453,
+      "strand": 1
+    },
+    "gatC": {
+      "end": 351331,
+      "start": 351055,
+      "strand": 1
+    },
+    "gidA": {
+      "end": 181405,
+      "start": 179539,
+      "strand": 1
+    },
+    "gidB": {
+      "end": 179543,
+      "start": 178916,
+      "strand": 1
+    },
+    "glpK": {
+      "end": 248102,
+      "start": 246596,
+      "strand": 1
+    },
+    "gltX": {
+      "end": 383382,
+      "start": 381909,
+      "strand": 1
+    },
+    "glyA": {
+      "end": 626260,
+      "start": 625006,
+      "strand": 1
+    },
+    "glyS": {
+      "end": 381892,
+      "start": 380554,
+      "strand": 1
+    },
+    "gnd": {
+      "end": 575247,
+      "start": 573852,
+      "strand": 1
+    },
+    "groL": {
+      "end": 690127,
+      "start": 688489,
+      "strand": 1
+    },
+    "groS": {
+      "end": 783248,
+      "start": 782975,
+      "strand": 1
+    },
+    "grpE": {
+      "end": 531692,
+      "start": 531128,
+      "strand": 1
+    },
+    "gyrA": {
+      "end": 454472,
+      "start": 452039,
+      "strand": 1
+    },
+    "gyrB": {
+      "end": 456388,
+      "start": 454483,
+      "strand": 1
+    },
+    "hbb": {
+      "end": 237956,
+      "start": 237629,
+      "strand": 1
+    },
+    "hflC": {
+      "end": 206044,
+      "start": 205174,
+      "strand": 1
+    },
+    "hflK": {
+      "end": 205072,
+      "start": 204136,
+      "strand": 1
+    },
+    "hisS": {
+      "end": 133842,
+      "start": 132471,
+      "strand": 1
+    },
+    "hslU": {
+      "end": 305120,
+      "start": 303773,
+      "strand": 1
+    },
+    "infA": {
+      "end": 171484,
+      "start": 171262,
+      "strand": 1
+    },
+    "infC": {
+      "end": 189859,
+      "start": 189298,
+      "strand": 1
+    },
+    "ksgA": {
+      "end": 609906,
+      "start": 609060,
+      "strand": 1
+    },
+    "la7": {
+      "end": 374151,
+      "start": 373566,
+      "strand": 1
+    },
+    "lepA": {
+      "end": 85720,
+      "start": 84040,
+      "strand": 1
+    },
+    "lepB": {
+      "end": 277064,
+      "start": 276671,
+      "strand": 1
+    },
+    "leuS": {
+      "end": 258985,
+      "start": 256462,
+      "strand": 1
+    },
+    "lgt": {
+      "end": 371013,
+      "start": 370026,
+      "strand": 1
+    },
+    "ligA": {
+      "end": 564167,
+      "start": 562184,
+      "strand": 1
+    },
+    "lnt": {
+      "end": 244003,
+      "start": 242437,
+      "strand": 1
+    },
+    "lon": {
+      "end": 642249,
+      "start": 639858,
+      "strand": 1
+    },
+    "lspA": {
+      "end": 489495,
+      "start": 488982,
+      "strand": 1
+    },
+    "luxS": {
+      "end": 387807,
+      "start": 387333,
+      "strand": 1
+    },
+    "lysS": {
+      "end": 699965,
+      "start": 698399,
+      "strand": 1
+    },
+    "malQ": {
+      "end": 169399,
+      "start": 167878,
+      "strand": 1
+    },
+    "manA": {
+      "end": 419506,
+      "start": 418387,
+      "strand": 1
+    },
+    "map": {
+      "end": 103771,
+      "start": 103015,
+      "strand": 1
+    },
+    "metG": {
+      "end": 606983,
+      "start": 604778,
+      "strand": 1
+    },
+    "metK": {
+      "end": 387337,
+      "start": 386158,
+      "strand": 1
+    },
+    "mfd": {
+      "end": 653790,
+      "start": 650412,
+      "strand": 1
+    },
+    "mgsA": {
+      "end": 373520,
+      "start": 373139,
+      "strand": 1
+    },
+    "mgtE": {
+      "end": 390341,
+      "start": 388976,
+      "strand": 1
+    },
+    "mraW": {
+      "end": 315314,
+      "start": 314423,
+      "strand": 1
+    },
+    "mraY": {
+      "end": 312715,
+      "start": 311659,
+      "strand": 1
+    },
+    "mrdB": {
+      "end": 757670,
+      "start": 756353,
+      "strand": 1
+    },
+    "mreC": {
+      "end": 754068,
+      "start": 753291,
+      "strand": 1
+    },
+    "murA": {
+      "end": 491927,
+      "start": 490643,
+      "strand": 1
+    },
+    "murB": {
+      "end": 621953,
+      "start": 621044,
+      "strand": 1
+    },
+    "murD": {
+      "end": 603729,
+      "start": 602373,
+      "strand": 1
+    },
+    "murG": {
+      "end": 809552,
+      "start": 808460,
+      "strand": 1
+    },
+    "murI": {
+      "end": 98648,
+      "start": 97862,
+      "strand": 1
+    },
+    "mvaD": {
+      "end": 728675,
+      "start": 727736,
+      "strand": 1
+    },
+    "mvk": {
+      "end": 730506,
+      "start": 729612,
+      "strand": 1
+    },
+    "nadD": {
+      "end": 821188,
+      "start": 820606,
+      "strand": 1
+    },
+    "nagA": {
+      "end": 152179,
+      "start": 150973,
+      "strand": 1
+    },
+    "nagB": {
+      "end": 153012,
+      "start": 152205,
+      "strand": 1
+    },
+    "napA": {
+      "end": 731720,
+      "start": 731183,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 910724,
+      "start": 0,
+      "strand": 1
+    },
+    "nusB": {
+      "end": 105846,
+      "start": 105417,
+      "strand": 1
+    },
+    "nusG": {
+      "end": 407898,
+      "start": 407343,
+      "strand": 1
+    },
+    "p66": {
+      "end": 628948,
+      "start": 627091,
+      "strand": 1
+    },
+    "p83/100": {
+      "end": 788962,
+      "start": 786859,
+      "strand": 1
+    },
+    "pcrA": {
+      "end": 634464,
+      "start": 632484,
+      "strand": 1
+    },
+    "pepF": {
+      "end": 254931,
+      "start": 253158,
+      "strand": 1
+    },
+    "pfkB": {
+      "end": 662529,
+      "start": 661605,
+      "strand": 1
+    },
+    "pfs": {
+      "end": 386162,
+      "start": 385448,
+      "strand": 1
+    },
+    "pgi": {
+      "end": 771139,
+      "start": 769546,
+      "strand": 1
+    },
+    "pgk": {
+      "end": 52434,
+      "start": 51252,
+      "strand": 1
+    },
+    "pgsA": {
+      "end": 760215,
+      "start": 759585,
+      "strand": 1
+    },
+    "pheT": {
+      "end": 526254,
+      "start": 524553,
+      "strand": 1
+    },
+    "phoU": {
+      "end": 41432,
+      "start": 40760,
+      "strand": 1
+    },
+    "pncB": {
+      "end": 673167,
+      "start": 671766,
+      "strand": 1
+    },
+    "polA": {
+      "end": 560732,
+      "start": 558005,
+      "strand": 1
+    },
+    "potA": {
+      "end": 681606,
+      "start": 680562,
+      "strand": 1
+    },
+    "prfB": {
+      "end": 71219,
+      "start": 70141,
+      "strand": 1
+    },
+    "priA": {
+      "end": 14728,
+      "start": 12745,
+      "strand": 1
+    },
+    "proS": {
+      "end": 415793,
+      "start": 414326,
+      "strand": 1
+    },
+    "pstA": {
+      "end": 223178,
+      "start": 221741,
+      "strand": 1
+    },
+    "pstB": {
+      "end": 223961,
+      "start": 223178,
+      "strand": 1
+    },
+    "pstC": {
+      "end": 221637,
+      "start": 220728,
+      "strand": 1
+    },
+    "pta": {
+      "end": 609078,
+      "start": 608022,
+      "strand": 1
+    },
+    "pth": {
+      "end": 824382,
+      "start": 823815,
+      "strand": 1
+    },
+    "ptsP": {
+      "end": 571280,
+      "start": 569558,
+      "strand": 1
+    },
+    "pyk": {
+      "end": 358440,
+      "start": 357006,
+      "strand": 1
+    },
+    "pyrG": {
+      "end": 589667,
+      "start": 588065,
+      "strand": 1
+    },
+    "queA": {
+      "end": 21083,
+      "start": 20050,
+      "strand": 1
+    },
+    "rbsA": {
+      "end": 716619,
+      "start": 715008,
+      "strand": 1
+    },
+    "rdgB": {
+      "end": 253039,
+      "start": 252433,
+      "strand": 1
+    },
+    "recA": {
+      "end": 127413,
+      "start": 126315,
+      "strand": 1
+    },
+    "recB": {
+      "end": 668517,
+      "start": 665007,
+      "strand": 1
+    },
+    "recC": {
+      "end": 671763,
+      "start": 668522,
+      "strand": 1
+    },
+    "recD": {
+      "end": 665011,
+      "start": 663178,
+      "strand": 1
+    },
+    "recG": {
+      "end": 598591,
+      "start": 596530,
+      "strand": 1
+    },
+    "recJ": {
+      "end": 266114,
+      "start": 263987,
+      "strand": 1
+    },
+    "rho": {
+      "end": 237142,
+      "start": 235594,
+      "strand": 1
+    },
+    "rimM": {
+      "end": 737712,
+      "start": 737211,
+      "strand": 1
+    },
+    "rnc": {
+      "end": 741425,
+      "start": 740687,
+      "strand": 1
+    },
+    "rnhB": {
+      "end": 45991,
+      "start": 45445,
+      "strand": 1
+    },
+    "rnmV": {
+      "end": 657543,
+      "start": 656997,
+      "strand": 1
+    },
+    "rnpA": {
+      "end": 460411,
+      "start": 460051,
+      "strand": 1
+    },
+    "rnz": {
+      "end": 799016,
+      "start": 798056,
+      "strand": 1
+    },
+    "rpiA": {
+      "end": 697437,
+      "start": 696750,
+      "strand": 1
+    },
+    "rplA": {
+      "end": 406861,
+      "start": 406180,
+      "strand": 1
+    },
+    "rplB": {
+      "end": 499046,
+      "start": 498212,
+      "strand": 1
+    },
+    "rplC": {
+      "end": 497235,
+      "start": 496614,
+      "strand": 1
+    },
+    "rplD": {
+      "end": 497874,
+      "start": 497244,
+      "strand": 1
+    },
+    "rplI": {
+      "end": 111567,
+      "start": 111045,
+      "strand": 1
+    },
+    "rplK": {
+      "end": 407292,
+      "start": 406860,
+      "strand": 1
+    },
+    "rplL": {
+      "end": 405617,
+      "start": 405242,
+      "strand": 1
+    },
+    "rplM": {
+      "end": 347301,
+      "start": 346860,
+      "strand": 1
+    },
+    "rplN": {
+      "end": 501865,
+      "start": 501496,
+      "strand": 1
+    },
+    "rplO": {
+      "end": 505541,
+      "start": 505103,
+      "strand": 1
+    },
+    "rplP": {
+      "end": 501009,
+      "start": 500592,
+      "strand": 1
+    },
+    "rplQ": {
+      "end": 509241,
+      "start": 508869,
+      "strand": 1
+    },
+    "rplR": {
+      "end": 504285,
+      "start": 503925,
+      "strand": 1
+    },
+    "rplS": {
+      "end": 738771,
+      "start": 738405,
+      "strand": 1
+    },
+    "rplT": {
+      "end": 189055,
+      "start": 188707,
+      "strand": 1
+    },
+    "rplU": {
+      "end": 818916,
+      "start": 818604,
+      "strand": 1
+    },
+    "rplV": {
+      "end": 499703,
+      "start": 499340,
+      "strand": 1
+    },
+    "rplW": {
+      "end": 498191,
+      "start": 497894,
+      "strand": 1
+    },
+    "rplX": {
+      "end": 502185,
+      "start": 501879,
+      "strand": 1
+    },
+    "rpmA": {
+      "end": 819487,
+      "start": 819241,
+      "strand": 1
+    },
+    "rpmB": {
+      "end": 359495,
+      "start": 359216,
+      "strand": 1
+    },
+    "rpmC": {
+      "end": 501212,
+      "start": 501014,
+      "strand": 1
+    },
+    "rpmE": {
+      "end": 235534,
+      "start": 235288,
+      "strand": 1
+    },
+    "rpmF": {
+      "end": 740422,
+      "start": 740239,
+      "strand": 1
+    },
+    "rpmG": {
+      "end": 408380,
+      "start": 408200,
+      "strand": 1
+    },
+    "rpmH": {
+      "end": 460071,
+      "start": 459915,
+      "strand": 1
+    },
+    "rpmI": {
+      "end": 189276,
+      "start": 189075,
+      "strand": 1
+    },
+    "rpmJ": {
+      "end": 506984,
+      "start": 506864,
+      "strand": 1
+    },
+    "rpoA": {
+      "end": 508848,
+      "start": 507813,
+      "strand": 1
+    },
+    "rpoC": {
+      "end": 401677,
+      "start": 397543,
+      "strand": 1
+    },
+    "rpoN": {
+      "end": 471220,
+      "start": 469960,
+      "strand": 1
+    },
+    "rpoS": {
+      "end": 813239,
+      "start": 812438,
+      "strand": 1
+    },
+    "rpsB": {
+      "end": 120589,
+      "start": 119806,
+      "strand": 1
+    },
+    "rpsC": {
+      "end": 500588,
+      "start": 499706,
+      "strand": 1
+    },
+    "rpsD": {
+      "end": 643126,
+      "start": 642499,
+      "strand": 1
+    },
+    "rpsE": {
+      "end": 504795,
+      "start": 504297,
+      "strand": 1
+    },
+    "rpsG": {
+      "end": 397077,
+      "start": 396603,
+      "strand": 1
+    },
+    "rpsH": {
+      "end": 503349,
+      "start": 502950,
+      "strand": 1
+    },
+    "rpsI": {
+      "end": 346841,
+      "start": 346430,
+      "strand": 1
+    },
+    "rpsJ": {
+      "end": 496579,
+      "start": 496267,
+      "strand": 1
+    },
+    "rpsK": {
+      "end": 507798,
+      "start": 507405,
+      "strand": 1
+    },
+    "rpsL": {
+      "end": 397476,
+      "start": 397101,
+      "strand": 1
+    },
+    "rpsM": {
+      "end": 507379,
+      "start": 507001,
+      "strand": 1
+    },
+    "rpsN": {
+      "end": 502941,
+      "start": 502755,
+      "strand": 1
+    },
+    "rpsP": {
+      "end": 736959,
+      "start": 736698,
+      "strand": 1
+    },
+    "rpsQ": {
+      "end": 501469,
+      "start": 501214,
+      "strand": 1
+    },
+    "rpsR": {
+      "end": 111875,
+      "start": 111584,
+      "strand": 1
+    },
+    "rpsS": {
+      "end": 499334,
+      "start": 499055,
+      "strand": 1
+    },
+    "rpsT": {
+      "end": 238226,
+      "start": 237968,
+      "strand": 1
+    },
+    "rpsU": {
+      "end": 267275,
+      "start": 267065,
+      "strand": 1
+    },
+    "rrmJ": {
+      "end": 512396,
+      "start": 511676,
+      "strand": 1
+    },
+    "rseP": {
+      "end": 116806,
+      "start": 115504,
+      "strand": 1
+    },
+    "rsgA": {
+      "end": 97866,
+      "start": 96942,
+      "strand": 1
+    },
+    "ruvA": {
+      "end": 22739,
+      "start": 22145,
+      "strand": 1
+    },
+    "ruvB": {
+      "end": 22101,
+      "start": 21057,
+      "strand": 1
+    },
+    "secA": {
+      "end": 156400,
+      "start": 153700,
+      "strand": 1
+    },
+    "secD": {
+      "end": 692645,
+      "start": 690884,
+      "strand": 1
+    },
+    "secE": {
+      "end": 408092,
+      "start": 407921,
+      "strand": 1
+    },
+    "secF": {
+      "end": 693528,
+      "start": 692628,
+      "strand": 1
+    },
+    "serS": {
+      "end": 231491,
+      "start": 230213,
+      "strand": 1
+    },
+    "smpB": {
+      "end": 31479,
+      "start": 31026,
+      "strand": 1
+    },
+    "spo0J": {
+      "end": 451921,
+      "start": 451138,
+      "strand": 1
+    },
+    "thrS": {
+      "end": 759581,
+      "start": 757835,
+      "strand": 1
+    },
+    "tig": {
+      "end": 637957,
+      "start": 636592,
+      "strand": 1
+    },
+    "tilS": {
+      "end": 825704,
+      "start": 824381,
+      "strand": 1
+    },
+    "tpiA": {
+      "end": 51251,
+      "start": 50489,
+      "strand": 1
+    },
+    "trmD": {
+      "end": 738428,
+      "start": 737708,
+      "strand": 1
+    },
+    "trmE": {
+      "end": 182802,
+      "start": 181407,
+      "strand": 1
+    },
+    "trmU": {
+      "end": 724130,
+      "start": 723062,
+      "strand": 1
+    },
+    "trpS": {
+      "end": 6306,
+      "start": 5250,
+      "strand": 1
+    },
+    "truA": {
+      "end": 12161,
+      "start": 11420,
+      "strand": 1
+    },
+    "trx": {
+      "end": 57185,
+      "start": 56831,
+      "strand": 1
+    },
+    "trxB": {
+      "end": 527305,
+      "start": 526324,
+      "strand": 1
+    },
+    "tsf": {
+      "end": 119803,
+      "start": 118963,
+      "strand": 1
+    },
+    "tuf": {
+      "end": 496217,
+      "start": 495032,
+      "strand": 1
+    },
+    "tyrS": {
+      "end": 380558,
+      "start": 379340,
+      "strand": 1
+    },
+    "udk": {
+      "end": 15345,
+      "start": 14724,
+      "strand": 1
+    },
+    "ung": {
+      "end": 50012,
+      "start": 49340,
+      "strand": 1
+    },
+    "uppS": {
+      "end": 118370,
+      "start": 117677,
+      "strand": 1
+    },
+    "uvrC": {
+      "end": 478005,
+      "start": 476262,
+      "strand": 1
+    },
+    "valS": {
+      "end": 781385,
+      "start": 778757,
+      "strand": 1
+    },
+    "xth": {
+      "end": 543816,
+      "start": 543048,
+      "strand": 1
+    },
+    "yajC": {
+      "end": 690799,
+      "start": 690481,
+      "strand": 1
+    },
+    "ychF": {
+      "end": 240250,
+      "start": 239143,
+      "strand": 1
+    },
+    "ylqF": {
+      "end": 682524,
+      "start": 681684,
+      "strand": 1
+    },
+    "zwf": {
+      "end": 674778,
+      "start": 673341,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "USA",
+          "#3A635D"
+        ],
+        [
+          "CAN",
+          "#FF0000"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "site": {
+      "color_map": [
+        [
+          "CAN/NewBrunswick/Milledgeville",
+          "#FA8072"
+        ],
+        [
+          "CAN/NovaScotia/Birchtown",
+          "#CD5C5C"
+        ],
+        [
+          "CAN/NovaScotia/Lunenburg",
+          "#DC143C"
+        ],
+        [
+          "CAN/NovaScotia/Merigomish",
+          "#B22222"
+        ],
+        [
+          "CAN/Ontario/LongPoint",
+          "#FFFF00"
+        ],
+        [
+          "CAN/Ontario/RainyRiver",
+          "#EEE8AA"
+        ],
+        [
+          "CAN/Quebec/Farnham",
+          "#FF0000"
+        ],
+        [
+          "CAN/Quebec/Mont-SaintBruno",
+          "#8B0000"
+        ],
+        [
+          "USA/CT/50-Foot",
+          "#7CFC00"
+        ],
+        [
+          "USA/CT/BarnIsland",
+          "#32CD32"
+        ],
+        [
+          "USA/CT/FDR",
+          "#228B22"
+        ],
+        [
+          "USA/CT/GL",
+          "#006400"
+        ],
+        [
+          "USA/CT/LG",
+          "#9ACD32"
+        ],
+        [
+          "USA/CT/MO",
+          "#00FF7F"
+        ],
+        [
+          "USA/CT/RockyNeck",
+          "#00FA9A"
+        ],
+        [
+          "USA/MA/Correllus",
+          "#87CEFA"
+        ],
+        [
+          "USA/MA/Cuttyhunk",
+          "#00BFFF"
+        ],
+        [
+          "USA/MA/FDR",
+          "#B0C4DE"
+        ],
+        [
+          "USA/MA/HH",
+          "#1E90FF"
+        ],
+        [
+          "USA/MA/Holyoke",
+          "#4169E1"
+        ],
+        [
+          "USA/MA/LG",
+          "#0000CD"
+        ],
+        [
+          "USA/MA/MR",
+          "#000080"
+        ],
+        [
+          "USA/MA/Nickerson",
+          "#7B68EE"
+        ],
+        [
+          "USA/MA/Quashnet",
+          "#6A5ACD"
+        ],
+        [
+          "USA/MA/Squam",
+          "#483D8B"
+        ],
+        [
+          "USA/MA/Townsend",
+          "#008080"
+        ],
+        [
+          "USA/MA/Wompatuck",
+          "#5F9EA0"
+        ],
+        [
+          "USA/ME/CapeElizabeth",
+          "#7FFFD4"
+        ],
+        [
+          "USA/MI/NorthManitou",
+          "#FFA500"
+        ],
+        [
+          "USA/MI/VanBuren",
+          "#FFD700"
+        ],
+        [
+          "USA/NH/GreatBay",
+          "#F0FFF0"
+        ],
+        [
+          "USA/NJ/NavalEarle",
+          "#FAEBD7"
+        ],
+        [
+          "USA/NY/BigEau",
+          "#4B0082"
+        ],
+        [
+          "USA/NY/BlackRiverFalls",
+          "#800080"
+        ],
+        [
+          "USA/NY/Calder",
+          "#9932CC"
+        ],
+        [
+          "USA/NY/Connetquot",
+          "#8A2BE2"
+        ],
+        [
+          "USA/NY/FDR",
+          "#9370DB"
+        ],
+        [
+          "USA/NY/GI",
+          "#BA55D3"
+        ],
+        [
+          "USA/NY/GL",
+          "#FF00FF"
+        ],
+        [
+          "USA/NY/HitherHills",
+          "#DA70D6"
+        ],
+        [
+          "USA/NY/JamesBaird",
+          "#EE82EE"
+        ],
+        [
+          "USA/NY/LG",
+          "#DDA0DD"
+        ],
+        [
+          "USA/NY/MapleBacon",
+          "#D8BFD8"
+        ],
+        [
+          "USA/NY/Mashomack",
+          "#E6E6FA"
+        ],
+        [
+          "USA/NY/MO",
+          "#FFC0CB"
+        ],
+        [
+          "USA/NY/Montauk",
+          "#FFB6C1"
+        ],
+        [
+          "USA/NY/SchodackIsland",
+          "#FF69B4"
+        ],
+        [
+          "USA/NY/TeaExp",
+          "#FF1493"
+        ],
+        [
+          "USA/NY/Verona",
+          "#DB7093"
+        ],
+        [
+          "USA/NY/WardPound",
+          "#C71585"
+        ],
+        [
+          "USA/NY/YM",
+          "#FFE4E1"
+        ],
+        [
+          "USA/PA/ParkerDam",
+          "#DCDCDC"
+        ],
+        [
+          "USA/RI/Arcadia",
+          "#FFF8DC"
+        ],
+        [
+          "USA/RI/BlockIsland",
+          "#FFEBCD"
+        ],
+        [
+          "USA/RI/GeorgeWashington",
+          "#FFE4C4"
+        ],
+        [
+          "USA/RI/PrudenceIsland",
+          "#FFDEAD"
+        ],
+        [
+          "USA/RI/RobinsHollow",
+          "#F5DEB3"
+        ],
+        [
+          "USA/VA/Goochland",
+          "#A9A9A9"
+        ],
+        [
+          "USA/VA/Lesesne",
+          "#708090"
+        ],
+        [
+          "USA/VA/MadisonHeights",
+          "#2F4F4F"
+        ],
+        [
+          "USA/VT/MO",
+          "#D2B48C"
+        ],
+        [
+          "USA/WI/BlackRiver",
+          "#BC8F8F"
+        ],
+        [
+          "USA/WI/FDR",
+          "#F4A460"
+        ],
+        [
+          "USA/WI/Flambeau",
+          "#DAA520"
+        ],
+        [
+          "USA/WI/Ft.McCoy",
+          "#CD853F"
+        ],
+        [
+          "USA/WI/JB",
+          "#D2691E"
+        ],
+        [
+          "USA/WI/Kettle",
+          "#8B4513"
+        ],
+        [
+          "USA/WI/McCaslin",
+          "#A0522D"
+        ],
+        [
+          "USA/WI/Spooner",
+          "#A52A2A"
+        ],
+        [
+          "USA/WI/YM",
+          "#800000"
+        ]
+      ],
+      "key": "site",
+      "legendTitle": "Site",
+      "menuItem": "site",
+      "type": "discrete"
+    },
+    "state": {
+      "color_map": [
+        [
+          "USA/WI",
+          "#8B4513"
+        ],
+        [
+          "USA/NY",
+          "#4B0082"
+        ],
+        [
+          "USA/CT",
+          "#008000"
+        ],
+        [
+          "USA/VT",
+          "#D2B48C"
+        ],
+        [
+          "USA/MA",
+          "#0000FF"
+        ],
+        [
+          "USA/NJ",
+          "#FAEBD7"
+        ],
+        [
+          "CAN/NovaScotia",
+          "#FF0000"
+        ],
+        [
+          "CAN/Ontario",
+          "#FFFF00"
+        ],
+        [
+          "CAN/NewBrunswick",
+          "#B22222"
+        ],
+        [
+          "USA/ME",
+          "#7FFFD4"
+        ],
+        [
+          "USA/MI",
+          "#FFA500"
+        ],
+        [
+          "USA/NH",
+          "#F0FFF0"
+        ],
+        [
+          "USA/PA",
+          "#DCDCDC"
+        ],
+        [
+          "CAN/Quebec",
+          "#8B0000"
+        ],
+        [
+          "USA/RI",
+          "#FFDEAD"
+        ],
+        [
+          "USA/VA",
+          "#708090"
+        ]
+      ],
+      "key": "state",
+      "legendTitle": "State",
+      "menuItem": "state",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "state",
+    "geoResolution": "state",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country",
+    "state",
+    "site"
+  ],
+  "geo": {
+    "country": {
+      "CAN": {
+        "latitude": 56.1304,
+        "longitude": -106.3468
+      },
+      "USA": {
+        "latitude": 37.0902,
+        "longitude": -95.7129
+      }
+    },
+    "site": {
+      "CAN/NewBrunswick/Milledgeville": {
+        "latitude": 45.3001,
+        "longitude": -66.0988
+      },
+      "CAN/NovaScotia/Birchtown": {
+        "latitude": 45.6334,
+        "longitude": -62.4319
+      },
+      "CAN/NovaScotia/Lunenburg": {
+        "latitude": 44.3834,
+        "longitude": -64.3154
+      },
+      "CAN/NovaScotia/Merigomish": {
+        "latitude": 45.6334,
+        "longitude": -62.4319
+      },
+      "CAN/Ontario/LongPoint": {
+        "latitude": 42.5667,
+        "longitude": -80.25
+      },
+      "CAN/Ontario/RainyRiver": {
+        "latitude": 48.7166,
+        "longitude": -94.5671
+      },
+      "CAN/Quebec/Farnham": {
+        "latitude": 45.2834,
+        "longitude": -72.9824
+      },
+      "CAN/Quebec/Mont-SaintBruno": {
+        "latitude": 45.5504,
+        "longitude": -73.3184
+      },
+      "USA/CT/50-Foot": {
+        "latitude": 41.789777,
+        "longitude": -72.221328
+      },
+      "USA/CT/BarnIsland": {
+        "latitude": 41.343315,
+        "longitude": -71.857967
+      },
+      "USA/CT/FDR": {
+        "latitude": 41.283,
+        "longitude": -73.808
+      },
+      "USA/CT/GL": {
+        "latitude": 42.78,
+        "longitude": -73.453
+      },
+      "USA/CT/LG": {
+        "latitude": 41.344,
+        "longitude": -72.764
+      },
+      "USA/CT/MO": {
+        "latitude": 42.31,
+        "longitude": -71.956
+      },
+      "USA/CT/RockyNeck": {
+        "latitude": 41.309404,
+        "longitude": -72.206052
+      },
+      "USA/MA/Correllus": {
+        "latitude": 41.405181,
+        "longitude": -70.59753
+      },
+      "USA/MA/Cuttyhunk": {
+        "latitude": 41.420484,
+        "longitude": -70.936658
+      },
+      "USA/MA/FDR": {
+        "latitude": 41.283,
+        "longitude": -73.808
+      },
+      "USA/MA/HH": {
+        "latitude": 41.426,
+        "longitude": -73.967
+      },
+      "USA/MA/Holyoke": {
+        "latitude": 42.296239,
+        "longitude": -72.527776
+      },
+      "USA/MA/LG": {
+        "latitude": 41.344,
+        "longitude": -72.764
+      },
+      "USA/MA/MR": {
+        "latitude": 42.029,
+        "longitude": -73.431
+      },
+      "USA/MA/Nickerson": {
+        "latitude": 41.760666,
+        "longitude": -70.015965
+      },
+      "USA/MA/Quashnet": {
+        "latitude": 41.594475,
+        "longitude": -70.508356
+      },
+      "USA/MA/Squam": {
+        "latitude": 41.319666,
+        "longitude": -70.002676
+      },
+      "USA/MA/Townsend": {
+        "latitude": 42.696682,
+        "longitude": -71.722094
+      },
+      "USA/MA/Wompatuck": {
+        "latitude": 42.207767,
+        "longitude": -70.850029
+      },
+      "USA/ME/CapeElizabeth": {
+        "latitude": 43.5647,
+        "longitude": -70.2384
+      },
+      "USA/MI/NorthManitou": {
+        "latitude": 45.1082938,
+        "longitude": -86.0182
+      },
+      "USA/MI/VanBuren": {
+        "latitude": 42.330235,
+        "longitude": -86.309402
+      },
+      "USA/NH/GreatBay": {
+        "latitude": 43.090941,
+        "longitude": -70.842794
+      },
+      "USA/NJ/NavalEarle": {
+        "latitude": 40.179859,
+        "longitude": -74.153969
+      },
+      "USA/NY/BigEau": {
+        "latitude": 44.738437,
+        "longitude": -89.837584
+      },
+      "USA/NY/BlackRiverFalls": {
+        "latitude": 44.228555,
+        "longitude": -90.663394
+      },
+      "USA/NY/Calder": {
+        "latitude": 41.2381,
+        "longitude": -73.5226
+      },
+      "USA/NY/Connetquot": {
+        "latitude": 40.749563,
+        "longitude": -73.15461
+      },
+      "USA/NY/FDR": {
+        "latitude": 41.283,
+        "longitude": -73.808
+      },
+      "USA/NY/GI": {
+        "latitude": 44.686,
+        "longitude": -73.297
+      },
+      "USA/NY/GL": {
+        "latitude": 42.78,
+        "longitude": -73.453
+      },
+      "USA/NY/HitherHills": {
+        "latitude": 41.01338,
+        "longitude": -72.009075
+      },
+      "USA/NY/JamesBaird": {
+        "latitude": 41.689909,
+        "longitude": -73.788119
+      },
+      "USA/NY/LG": {
+        "latitude": 41.344,
+        "longitude": -72.764
+      },
+      "USA/NY/MO": {
+        "latitude": 42.31,
+        "longitude": -71.956
+      },
+      "USA/NY/MapleBacon": {
+        "latitude": 41.2381,
+        "longitude": -73.5226
+      },
+      "USA/NY/Mashomack": {
+        "latitude": 41.060179,
+        "longitude": -72.314227
+      },
+      "USA/NY/Montauk": {
+        "latitude": 41.073415,
+        "longitude": -71.863246
+      },
+      "USA/NY/SchodackIsland": {
+        "latitude": 42.502256,
+        "longitude": -73.771542
+      },
+      "USA/NY/TeaExp": {
+        "latitude": 41.2381,
+        "longitude": -73.5226
+      },
+      "USA/NY/Verona": {
+        "latitude": 43.18433,
+        "longitude": -75.72187
+      },
+      "USA/NY/WardPound": {
+        "latitude": 41.246634,
+        "longitude": -73.5938
+      },
+      "USA/NY/YM": {
+        "latitude": 41.953,
+        "longitude": -72.125
+      },
+      "USA/PA/ParkerDam": {
+        "latitude": 41.211384,
+        "longitude": -78.500832
+      },
+      "USA/RI/Arcadia": {
+        "latitude": 41.568882,
+        "longitude": -71.505068
+      },
+      "USA/RI/BlockIsland": {
+        "latitude": 41.1697,
+        "longitude": -71.58
+      },
+      "USA/RI/GeorgeWashington": {
+        "latitude": 41.9246,
+        "longitude": -70.756372
+      },
+      "USA/RI/PrudenceIsland": {
+        "latitude": 41.59046701,
+        "longitude": -71.32298201
+      },
+      "USA/RI/RobinsHollow": {
+        "latitude": 41.1697,
+        "longitude": -71.58
+      },
+      "USA/VA/Goochland": {
+        "latitude": 37.58838,
+        "longitude": -77.66417
+      },
+      "USA/VA/Lesesne": {
+        "latitude": 37.83625,
+        "longitude": -78.97593
+      },
+      "USA/VA/MadisonHeights": {
+        "latitude": 37.5,
+        "longitude": -79.0
+      },
+      "USA/VT/MO": {
+        "latitude": 42.31,
+        "longitude": -71.956
+      },
+      "USA/WI/BlackRiver": {
+        "latitude": 44.231861,
+        "longitude": -90.660187
+      },
+      "USA/WI/FDR": {
+        "latitude": 41.283,
+        "longitude": -73.808
+      },
+      "USA/WI/Flambeau": {
+        "latitude": 45.876808,
+        "longitude": -90.712127
+      },
+      "USA/WI/Ft.McCoy": {
+        "latitude": 44.010807,
+        "longitude": -90.684563
+      },
+      "USA/WI/JB": {
+        "latitude": 41.691,
+        "longitude": -73.791
+      },
+      "USA/WI/Kettle": {
+        "latitude": 42.830415,
+        "longitude": -88.610755
+      },
+      "USA/WI/McCaslin": {
+        "latitude": 45.332116,
+        "longitude": -88.70921
+      },
+      "USA/WI/Spooner": {
+        "latitude": 45.808917,
+        "longitude": -91.901332
+      },
+      "USA/WI/YM": {
+        "latitude": 41.953,
+        "longitude": -72.125
+      }
+    },
+    "state": {
+      "CAN/NewBrunswick": {
+        "latitude": 46.5653,
+        "longitude": -66.4619
+      },
+      "CAN/NovaScotia": {
+        "latitude": 44.682,
+        "longitude": -63.7443
+      },
+      "CAN/Ontario": {
+        "latitude": 51.2538,
+        "longitude": -85.3232
+      },
+      "CAN/Quebec": {
+        "latitude": 52.9399,
+        "longitude": -73.5491
+      },
+      "USA/CT": {
+        "latitude": 41.6032,
+        "longitude": -73.0877
+      },
+      "USA/MA": {
+        "latitude": 42.4072,
+        "longitude": -71.3824
+      },
+      "USA/ME": {
+        "latitude": 45.2538,
+        "longitude": -69.4455
+      },
+      "USA/MI": {
+        "latitude": 44.3148,
+        "longitude": -85.6024
+      },
+      "USA/NH": {
+        "latitude": 43.1939,
+        "longitude": -71.5724
+      },
+      "USA/NJ": {
+        "latitude": 40.0583,
+        "longitude": -74.4057
+      },
+      "USA/NY": {
+        "latitude": 43.2994,
+        "longitude": -74.2179
+      },
+      "USA/PA": {
+        "latitude": 41.2033,
+        "longitude": -77.1945
+      },
+      "USA/RI": {
+        "latitude": 41.5801,
+        "longitude": -71.4774
+      },
+      "USA/VA": {
+        "latitude": 37.4316,
+        "longitude": -78.6569
+      },
+      "USA/VT": {
+        "latitude": 44.5588,
+        "longitude": -72.5778
+      },
+      "USA/WI": {
+        "latitude": 43.7844,
+        "longitude": -88.7879
+      }
+    }
+  },
+  "maintainer": [
+    "Sarah_Lapidus",
+    "https://github.com/sarahlapidus/Borrelia-burgdorferi"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Borrelia-burgdorferi",
+  "updated": "09 Mar 2020",
+  "virus_count": 146
+}
